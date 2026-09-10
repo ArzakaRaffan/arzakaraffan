@@ -21,15 +21,15 @@ Full-stack developer — I design, build, and ship web applications end to end.
 
 ### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,nodejs,django,postgres,supabase,docker,git,linux,bash,figma,godot,azure,playwright,prometheus,grafana,cloudflare&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,nodejs,django,postgres,supabase,docker,git,linux,bash,figma,godot,azure,prometheus,grafana,cloudflare&perline=10)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ArzakaRaffan&bg_color=0d1117&color=e6edf3&line=38bdf8&point=e6edf3&area=true&area_color=38bdf8&hide_border=true&custom_title=Contribution%20Activity" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ArzakaRaffan&bg_color=ffffff&color=1f2328&line=0969da&point=1f2328&area=true&area_color=0969da&hide_border=true&custom_title=Contribution%20Activity" />
-  <img alt="Arzaka's contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ArzakaRaffan&bg_color=0d1117&color=e6edf3&line=38bdf8&point=e6edf3&area=true&area_color=38bdf8&hide_border=true&custom_title=Contribution%20Activity" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArzakaRaffan/arzakaraffan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArzakaRaffan/arzakaraffan/output/github-snake.svg" />
+  <img alt="github contribution snake eating my contribution graph" src="https://raw.githubusercontent.com/ArzakaRaffan/arzakaraffan/output/github-snake.svg" />
 </picture>
 </div>
