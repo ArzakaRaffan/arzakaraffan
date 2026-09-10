@@ -2,10 +2,8 @@ name: Update README stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6h; WakaTime stats + pacman graph
+    - cron: "0 */6 * * *"   # every 6h; WakaTime stats + contribution-snake graph
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write
