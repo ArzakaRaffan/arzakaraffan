@@ -28,6 +28,85 @@ Full-stack developer — I design, build, and ship web applications end to end.
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 552 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 45 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+🌆 Daytime                1456 commits        █████████████░░░░░░░░░░░░   52.13 % 
+🌃 Evening                691 commits         ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+🌙 Night                  437 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Tuesday                  447 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Wednesday                421 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Thursday                 221 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Friday                   859 commits         ████████░░░░░░░░░░░░░░░░░   30.76 % 
+Saturday                 229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Sunday                   292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in GDScript** 
+
+```text
+GDScript                 11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ArzakaRaffan/ArzakaRaffan/main/assets/bar_graph.png)
+
+
+ Last Updated on 10/09/2026 15:24:37 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
