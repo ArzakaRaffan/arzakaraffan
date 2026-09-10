@@ -19,9 +19,13 @@ Full-stack developer — I design, build, and ship web applications end to end.
 
 </div>
 
+<div align="center">
+
 ### Stack
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,nodejs,django,postgres,supabase,docker,git,linux,bash,figma,godot,azure,prometheus,grafana,cloudflare&perline=10)](https://skillicons.dev)
+
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
