@@ -1,8 +1,8 @@
 <div align="center">
 
-# Arzaka
+# Arzaka Raffan Mawardi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;CS+Student+%40+Fasilkom+UI;I+build+for+the+web%2C+end+to+end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;CS+Student+%40+Universitas+Indonesia;I+build+for+the+web%2C+end+to+end)](https://git.io/typing-svg)
 
 [![WakaTime](https://wakatime.com/badge/user/2c1679be-e4f3-428e-9fdf-074a4aed9d66.svg)](https://wakatime.com/@2c1679be-e4f3-428e-9fdf-074a4aed9d66)
 [![Profile views](https://visitor-badge.laobi.icu/badge?page_id=ArzakaRaffan.ArzakaRaffan&left_color=darkorange&right_color=dimgrey&left_text=Profile%20views)](https://github.com/ArzakaRaffan)
