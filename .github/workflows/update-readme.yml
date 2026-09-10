@@ -2,7 +2,7 @@ name: Update README stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6h; WakaTime stats + contribution-snake graph
+    - cron: "0 */6 * * *"   # every 6h; refreshes the WakaTime stats block
   workflow_dispatch:
 
 permissions:
@@ -23,27 +23,10 @@ jobs:
           SHOW_TOTAL_CODE_TIME: True
           BLOCKS: "▓▓▓░░░"
 
-  snake-graph:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - name: Push snake svg to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+# The contribution activity graph is rendered live by
+# github-readme-activity-graph.vercel.app straight from the README — no job needed.
+#
 # Required repo secrets (Settings > Secrets and variables > Actions):
 #   WAKATIME_API_KEY - from wakatime.com/settings/api-key
-#   GH_TOKEN          - a PAT with `repo` scope (waka-readme-stats needs write access
-#                        beyond the default GITHUB_TOKEN to edit README.md via commit)
-# GITHUB_TOKEN for the snake job is the default automatic token, no setup needed.
+#   GH_TOKEN         - a PAT with `repo` scope (waka-readme-stats needs write access
+#                       beyond the default GITHUB_TOKEN to edit README.md via commit)
