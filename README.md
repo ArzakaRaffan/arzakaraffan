@@ -36,7 +36,7 @@ Full-stack developer — I design, build, and ship web applications end to end.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 614 Contributions in the Year 2026
+> 🏆 631 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -47,21 +47,21 @@ Full-stack developer — I design, build, and ship web applications end to end.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-🌆 Daytime                1456 commits        █████████████░░░░░░░░░░░░   52.13 % 
-🌃 Evening                691 commits         ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-🌙 Night                  437 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+🌞 Morning                209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+🌆 Daytime                1605 commits        █████████████░░░░░░░░░░░░   52.85 % 
+🌃 Evening                709 commits         ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+🌙 Night                  514 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Tuesday                  447 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Wednesday                421 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Thursday                 221 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Friday                   859 commits         ████████░░░░░░░░░░░░░░░░░   30.76 % 
-Saturday                 229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Sunday                   292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Monday                   336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Tuesday                  447 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Wednesday                421 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Thursday                 221 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Friday                   892 commits         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+Saturday                 317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Sunday                   403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
 ```
 
 
@@ -92,11 +92,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in GDScript** 
 
 ```text
-GDScript                 11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+GDScript                 11 repos            ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 ```
 
 
@@ -106,7 +106,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ArzakaRaffan/ArzakaRaffan/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 15:13:40 UTC
+ Last Updated on 13/09/2026 19:59:30 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
