@@ -47,21 +47,21 @@ Full-stack developer — I design, build, and ship web applications end to end.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-🌆 Daytime                1605 commits        █████████████░░░░░░░░░░░░   52.85 % 
-🌃 Evening                709 commits         ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-🌙 Night                  514 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+🌞 Morning                273 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+🌆 Daytime                1806 commits        █████████████░░░░░░░░░░░░   53.12 % 
+🌃 Evening                800 commits         ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+🌙 Night                  521 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Tuesday                  447 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Wednesday                421 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Thursday                 221 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Friday                   892 commits         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-Saturday                 317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Sunday                   403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Monday                   330 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Tuesday                  447 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Wednesday                421 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Thursday                 285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Friday                   940 commits         ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+Saturday                 480 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Sunday                   497 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 ```
 
 
@@ -92,11 +92,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in GDScript** 
 
 ```text
-GDScript                 11 repos            ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+GDScript                 11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 
 
@@ -106,7 +106,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ArzakaRaffan/ArzakaRaffan/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 19:59:30 UTC
+ Last Updated on 14/09/2026 02:05:29 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
