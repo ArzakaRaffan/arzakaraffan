@@ -47,21 +47,21 @@ Full-stack developer — I design, build, and ship web applications end to end.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                273 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-🌆 Daytime                1806 commits        █████████████░░░░░░░░░░░░   53.01 % 
-🌃 Evening                801 commits         ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-🌙 Night                  527 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+🌞 Morning                92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+🌆 Daytime                580 commits         ███████████████░░░░░░░░░░   60.17 % 
+🌃 Evening                234 commits         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+🌙 Night                  58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Tuesday                  447 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Wednesday                421 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Thursday                 285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Friday                   940 commits         ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-Saturday                 480 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Sunday                   498 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Monday                   53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Tuesday                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Wednesday                128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Thursday                 58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Friday                   602 commits         ████████████████░░░░░░░░░   62.45 % 
+Saturday                 87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Sunday                   26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
@@ -106,7 +106,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ArzakaRaffan/ArzakaRaffan/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 15:02:50 UTC
+ Last Updated on 20/09/2026 20:00:16 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
