@@ -36,11 +36,11 @@ Full-stack developer — I design, build, and ship web applications end to end.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 874 Contributions in the Year 2026
+> 🏆 879 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 47 Public Repositories 
+> 📜 46 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -92,11 +92,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in GDScript** 
 
 ```text
-GDScript                 11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+GDScript                 11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 
 
@@ -106,7 +106,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ArzakaRaffan/ArzakaRaffan/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:00:10 UTC
+ Last Updated on 07/10/2026 03:02:40 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
