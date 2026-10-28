@@ -92,11 +92,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in GDScript** 
 
 ```text
-GDScript                 11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+GDScript                 11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 
 
@@ -106,7 +106,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ArzakaRaffan/ArzakaRaffan/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 02:52:40 UTC
+ Last Updated on 28/10/2026 11:49:35 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
